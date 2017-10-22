@@ -9,3 +9,14 @@ C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\Specian\obj\Debug\ne
 C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\Specian\obj\Debug\netcoreapp2.0\Specian.AssemblyInfo.cs
 C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\Specian\obj\Debug\netcoreapp2.0\Specian.dll
 C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\Specian\obj\Debug\netcoreapp2.0\Specian.pdb
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\bin\Debug\netcoreapp2.0\Specian.deps.json
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\bin\Debug\netcoreapp2.0\Specian.runtimeconfig.json
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\bin\Debug\netcoreapp2.0\Specian.runtimeconfig.dev.json
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\bin\Debug\netcoreapp2.0\Specian.dll
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\bin\Debug\netcoreapp2.0\Specian.pdb
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.csprojResolveAssemblyReference.cache
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.csproj.CoreCompileInputs.cache
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.AssemblyInfoInputs.cache
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.AssemblyInfo.cs
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.dll
+C:\Users\King\Documents\Visual Studio 2017\Projects\Specian\jan_specian_test_project\Specian\obj\Debug\netcoreapp2.0\Specian.pdb

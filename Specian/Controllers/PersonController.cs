@@ -150,5 +150,12 @@ namespace Specian.Controllers
         {
             return _context.Persons.Any(e => e.Id == id);
         }
+
+        [Route("/api/people")]
+        public JsonResult GetPersons()
+        {
+            // default behavior will convert fields in model to camelCase in Json object
+            return Json(_context.Persons);
+        }
     }
 }

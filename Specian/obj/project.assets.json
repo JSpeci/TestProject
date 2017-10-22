@@ -13124,11 +13124,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\Specian\\Specian.csproj",
+      "projectUniqueName": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\jan_specian_test_project\\Specian\\Specian.csproj",
       "projectName": "Specian",
-      "projectPath": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\Specian\\Specian.csproj",
+      "projectPath": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\jan_specian_test_project\\Specian\\Specian.csproj",
       "packagesPath": "C:\\Users\\King\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\Specian\\obj\\",
+      "outputPath": "C:\\Users\\King\\Documents\\Visual Studio 2017\\Projects\\Specian\\jan_specian_test_project\\Specian\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
